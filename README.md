@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I am a Backend developer from Argentina.<br>- 🔭 I’m working as a software developer for a Fintech, maintaining and creating microservices.<br>- 📚 I'm currently learning a little bit of Go and Kotlin.<br>- ⚡ In my free time I like playing videogames.</p>
+<p align="left">I am a Backend developer from Argentina.<br>- 🔭 I’m working as a software developer for a Fintech, maintaining and creating microservices.<br>- 📚 I'm currently learning a little bit of Go and Kotlin.<br>- ⚡ In my free time, I like playing videogames.</p>
 
 ###
 
@@ -81,6 +81,12 @@
 ###
 
 <div align="center">
+  <img height="" src="https://www.codewars.com/users/ezequielPereyra/badges/large"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ezequielPereyra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -89,12 +95,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezequielPereyra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezequielPereyra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="" src="https://www.codewars.com/users/ezequielPereyra/badges/large"  />
 </div>
 
 ###
